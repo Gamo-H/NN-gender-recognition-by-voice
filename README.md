@@ -4,7 +4,7 @@
 ## Data Overview
 
 ### Source
-Our project utilizes the [Mozilla Common Voice dataset](https://www.kaggle.com/datasets/mozillaorg/common-voice), a comprehensive corpus of speech data. This dataset is collected through the [Common Voice website](http://voice.mozilla.org/) and comprises a variety of sources, including user-submitted blog posts, historical books, movies, and other public speech corpora. Its primary aim is to facilitate the development and evaluation of Automatic Speech Recognition (ASR) systems.
+This project utilizes the [Mozilla Common Voice dataset](https://www.kaggle.com/datasets/mozillaorg/common-voice), a comprehensive corpus of speech data. This dataset is collected through the [Common Voice website](http://voice.mozilla.org/) and comprises a variety of sources, including user-submitted blog posts, historical books, movies, and other public speech corpora. Its primary aim is to facilitate the development and evaluation of Automatic Speech Recognition (ASR) systems.
 
 ### Dataset Version
 For this project, we are working with a specific 13GB version of the dataset, which can be downloaded [here](https://www.kaggle.com/datasets/mozillaorg/common-voice).
